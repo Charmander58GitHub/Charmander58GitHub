@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am <a href="https://github.com/Charmander58GitHub" Charmander58</a></h1>
-<h3 align="center">Systems and software engineer, average python, JavaScript, HTML programmer  &#127470;&#127475</h3>
+<h3 align="center">Systems and software engineer, average python, JavaScript, HTML programmer  
 
 <p align="left"> <a href="https://twitter.com/Charmander582"
 
