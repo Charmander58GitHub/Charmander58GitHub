@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I am <a href="https://github.com/Charmander58GitHub" target="blank">
 Char</a></h1>
-<h3 align="center">Systems and software engineer, average python, JavaScript, HTML programmer  
+<h3 align="center">Systems and software engineer, average python, JavaScript, HTML programmer 🇨🇴
 
 <p align="left"> <a href="https://twitter.com/Charmander582"
 
