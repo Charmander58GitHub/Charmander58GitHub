@@ -10,7 +10,7 @@ Char</a></h1>
 
 - 🔭 I’m currently working in CharBot Private Limited</a>
 
-- 🌱 I’m currently Working on Bogota, Colombia.
+- 🌱 I’m currently Working on Colombia.
 
 - 🤝 I’m available for freelancing.
 
