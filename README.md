@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I am <a href="https://github.com/Charmander58GitHub" target="blank">
 Char</a></h1>
-<h3 align="center">Software engineer, Developer Python, JavaScript, Java, C++ 🇨🇴 </h3>
+<h3 align="center">Software Engineer | Python, JavaScript, Java, and C++ Developer 🇨🇴 </h3>
 
 <p align="left"> <a href="https://twitter.com/Charmander582"
 
@@ -55,4 +55,4 @@ Char</a></h1>
 
 Credit: [Char]((https://github.com/Charmander58GitHub))
 
-Last Edited on: 21/02/2024
+Last Edited on: 08/02/25
