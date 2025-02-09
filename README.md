@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I am <a href="https://github.com/Charmander58GitHub" target="blank">
 Char</a></h1>
-<h3 align="center">Systems and software engineer, average python, JavaScript, HTML programmer 🇨🇴 </h3>
+<h3 align="center">Systems and software engineer, average Python, JavaScript, Java, C++ 🇨🇴 </h3>
 
 <p align="left"> <a href="https://twitter.com/Charmander582"
 
@@ -14,7 +14,7 @@ Char</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning C++, Java <a href="(https://github.com/Charmander58GitHub)" target="blank">
+ <a href="(https://github.com/Charmander58GitHub)" target="blank">
 <br/>
 <h3 align="center" (" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
