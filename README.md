@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I am <a href="https://github.com/Charmander58GitHub" target="blank">
 Char</a></h1>
-<h3 align="center">Software Engineer | Python, JavaScript, Java, and C++ Developer 🇨🇴 </h3>
+<h3 align="center">Software Engineer | Developer in Python, JavaScript, Java, C++, & Swift 🇨🇴 </h3>
 
 <p align="left"> <a href="https://twitter.com/Charmander582"
 
@@ -21,8 +21,6 @@ Char</a></h1>
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Charmander58GitHub">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/Charmander582">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCi1jeFASOyCEfuK0wPEa29Q">
@@ -56,4 +54,4 @@ Char</a></h1>
 
 Credit: [Char]((https://github.com/Charmander58GitHub))
 
-Last Edited on: 08/02/25
+Last Edited on: 01/04/25
