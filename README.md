@@ -8,11 +8,9 @@ Char</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c9d14b2d-d5d6-42af-a21b-067fc92aeff4/dc3u9s3-10eae42a-8425-41b3-9c9b-fdaa46144d92.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M5ZDE0YjJkLWQ1ZDYtNDJhZi1hMjFiLTA2N2ZjOTJhZWZmNFwvZGMzdTlzMy0xMGVhZTQyYS04NDI1LTQxYjMtOWM5Yi1mZGFhNDYxNDRkOTIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ZCmdFTBcJlYKz0w0L2nGPQgIzOHLdl4sU70q0gBR2mU">
 </a>
 
-- 🔭 I’m currently working in CharBot Private Limited</a>
+- 💻 I’m currently working on CharBot Private Limited and developing QUIZO for macOS.</a>
 
-- 🌱 I’m currently Working on Colombia.
-
-- 🤝 I’m available for freelancing.
+- 🇨🇴 I’m currently working in my native country, Colombia.
 
  <a href="(https://github.com/Charmander58GitHub)" target="blank">
 <br/>
