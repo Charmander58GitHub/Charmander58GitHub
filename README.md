@@ -19,8 +19,8 @@ status → building in 🇨🇴
   <a href="https://twitter.com/Charmander582" target="_blank">
   <img src="https://img.shields.io/badge/@Charmander582-0d2b0d?style=flat&logo=x&logoColor=4ade80" height="22" alt="X" />
 </a>
-  <a href="https://github.com/Charmander58GitHub" target="_blank">
-    <img src="https://img.icons8.com/doodle/1x/github--v1.png" height="36" alt="GitHub" />
+  <a href="https://www.youtube.com/@Charmander58YT" target="_blank">
+    <img src="https://img.shields.io/badge/@Charmander58YT-1a0000?style=flat&logo=youtube&logoColor=ff4444" height="22" alt="YouTube" />
   </a>
 </p>
 
