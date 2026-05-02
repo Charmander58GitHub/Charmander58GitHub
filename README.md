@@ -17,8 +17,8 @@ status → building in 🇨🇴
 
 <p align="left">
   <a href="https://twitter.com/Charmander582" target="_blank">
-    <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" height="36" alt="Twitter" />
-  </a>
+  <img src="https://img.shields.io/badge/@Charmander582-0d2b0d?style=flat&logo=x&logoColor=4ade80" height="22" alt="X" />
+</a>
   <a href="https://github.com/Charmander58GitHub" target="_blank">
     <img src="https://img.icons8.com/doodle/1x/github--v1.png" height="36" alt="GitHub" />
   </a>
