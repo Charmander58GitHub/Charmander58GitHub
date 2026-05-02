@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm <a href="https://github.com/Charmander58GitHub" target="_blank">Char</a> 👋</h1>
+<h1 align="left">Hola, soy <a href="https://github.com/Charmander58GitHub" target="_blank">Char</a> 👋</h1>
 
 ```
 chardev@github:~$ whoami
@@ -6,7 +6,7 @@ chardev@github:~$ whoami
 
 <img align="right" height="110" style="border-radius:10px" src="https://i.pinimg.com/1200x/35/d9/1f/35d91fe0105e7883a61fb422d0602328.jpg" />
 
-**Software Engineer · Colombia 🇨🇴**
+**Ingeniero de software · Colombia 🇨🇴**
 
 ```
 stack  → Python · JS · Java · C++ · Swift
