@@ -34,7 +34,7 @@ status → building in 🇨🇴
 |:---|:---:|:---|:---|
 | **CharBot** | `active` `v1.1.0` | Discord bot activo en múltiples servidores. Sistema de música, IA conversacional y notificaciones NVIDIA. | `discord.js` `node.js` |
 | **CharBot IA** | `active` | Módulo de IA conversacional con memoria expandida y filtros anti-manipulación. | `python` `llm` |
-| **ChardevOS** | `wip` | Sistema operativo experimental bajo Chardev's Team. | `c++` `systems` |
+| **ChardevOS** | `wip` | Sistema operativo experimental bajo Chardev's Team. | `cdev` |
 | **ZaFe** | `wip` | Proyecto independiente en desarrollo bajo Chardev's Team. | `javascript` |
 
 ---
