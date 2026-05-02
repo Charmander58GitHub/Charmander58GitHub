@@ -2,7 +2,7 @@
 <h3 align="left">Software Engineer · Python · JS · Java · C++ · Swift</h3>
 <p align="left">🇨🇴 Colombia</p>
 
-<img align="right" height="130" style="border-radius:16px" src="TU_URL_AQUÍ" />
+<img align="right" height="130" style="border-radius:16px" src="https://i.pinimg.com/1200x/db/61/3c/db613cbf7fdefbef274ade416b05e6f0.jpg" />
 
 - 💻 Building **CharBot** — discord.js v14, active across multiple servers
 - 🌐 Check out [charbot.xyz](https://charbot.xyz)
