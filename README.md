@@ -1,14 +1,22 @@
-<h1 align="left">Hi, I'm <a href="https://github.com/Charmander58GitHub" target="_blank">Char</a> 👋</h1>
-<h3 align="left">Software Engineer · Python · JS · Java · C++ · Swift</h3>
-<p align="left">🇨🇴 Colombia</p>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
 
-<img align="right" height="130" style="border-radius:16px" src="https://i.pinimg.com/1200x/db/61/3c/db613cbf7fdefbef274ade416b05e6f0.jpg" />
+<h1>Hi, I'm <a href="https://github.com/Charmander58GitHub" target="_blank">Char</a> 👋</h1>
+<h3>Software Engineer · Python · JS · Java · C++ · Swift 🇨🇴</h3>
 
 - 💻 Building **CharBot** — discord.js v14, active across multiple servers
 - 🌐 Check out [charbot.xyz](https://charbot.xyz)
 - 🇨🇴 Based in Colombia
 
-<br clear="right"/>
+</td>
+<td align="right" width="200">
+  <img height="160" style="border-radius:16px" src="https://i.pinimg.com/1200x/35/d9/1f/35d91fe0105e7883a61fb422d0602328.jpg" />
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
