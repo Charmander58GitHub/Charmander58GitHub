@@ -11,7 +11,7 @@ chardev@github:~$ whoami
 ```
 stack  → Python · JS · Java · C++ · Swift
 org    → Chardev's Team
-web    → charbot.xyz
+web    → chardevteam.charbot.xyz
 status → building in 🇨🇴
 ```
 
